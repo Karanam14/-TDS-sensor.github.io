@@ -14,3 +14,5 @@ A TDS meter measures the number of total dissolved solids like salts, minerals, 
 Although this is a good indicator to monitor the quality of the water, note that it does not measure contaminants in the water. Thus, you can’t rely solely on this indicator to determine if the water is good for consumption or not.
 
 A TDS meter can be useful to monitor water quality in many applications like pools, aquariums, fish tanks, hydroponics, water purifiers, etc.
+
+The Output is displayed in the Serial Monitor.
